@@ -1,0 +1,12 @@
+{
+  "name": "chart-barline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.9.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
